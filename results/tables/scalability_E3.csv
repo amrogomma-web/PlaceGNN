@@ -1,0 +1,10 @@
+Unnamed: 0_level_0,J,J,J,J,J,J,J,J,J,J,...,latency,latency,latency,latency,latency,latency,latency,latency,latency,latency
+method,D-POA,DRL-AM,Greedy-CC,PlaceGNN,PlaceGNN (N=1),PlaceGNN (seed 1),PlaceGNN (seed 2),PlaceGNN-H,PlaceGNN-H (seed 1),PlaceGNN-H (seed 2),...,Greedy-CC,PlaceGNN,PlaceGNN (N=1),PlaceGNN (seed 1),PlaceGNN (seed 2),PlaceGNN-H,PlaceGNN-H (seed 1),PlaceGNN-H (seed 2),Random,WS-GA
+K,Unnamed: 1_level_2,Unnamed: 2_level_2,Unnamed: 3_level_2,Unnamed: 4_level_2,Unnamed: 5_level_2,Unnamed: 6_level_2,Unnamed: 7_level_2,Unnamed: 8_level_2,Unnamed: 9_level_2,Unnamed: 10_level_2,Unnamed: 11_level_2,Unnamed: 12_level_2,Unnamed: 13_level_2,Unnamed: 14_level_2,Unnamed: 15_level_2,Unnamed: 16_level_2,Unnamed: 17_level_2,Unnamed: 18_level_2,Unnamed: 19_level_2,Unnamed: 20_level_2,Unnamed: 21_level_2
+50,0.7973,0.7953,0.7936,0.7945,,0.7933,0.7945,0.7923,0.7977,0.7979,...,0.0077,0.0889,,0.1237,0.116,0.0557,0.0844,0.0524,0.004,9.1417
+100,0.7979,0.794,0.7979,0.7939,,0.7929,0.7931,0.7906,0.7962,0.7972,...,0.0134,0.133,,0.1375,0.1316,0.0731,0.0853,0.0792,0.0048,9.6064
+250,0.7982,0.7968,0.7982,0.7954,,0.7932,0.7943,0.7932,0.7974,0.7979,...,0.0325,0.3262,,0.3094,0.3774,0.2782,0.2795,0.189,0.0101,10.9368
+500,0.7973,0.796,0.7973,0.7953,,0.7933,0.7942,0.7924,0.7971,0.798,...,0.0655,0.7132,,0.6682,0.8059,0.5349,0.4392,0.3885,0.0184,12.9322
+1000,0.7978,0.7979,0.7978,0.7954,,0.7935,0.7938,0.7924,0.7971,0.7979,...,0.1557,1.6321,,1.6643,1.7722,1.0012,1.2461,0.9289,0.0436,16.1191
+2000,,,0.7986,0.7952,0.7955,,,0.7945,,,...,0.3213,4.386,0.6597,,,2.6286,,,,22.6511
+5000,,,0.7987,0.7956,0.7956,,,0.7947,,,...,1.0357,18.5207,2.8735,,,11.1813,,,,42.1898

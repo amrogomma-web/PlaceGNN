@@ -1,0 +1,8 @@
+Unnamed: 0_level_0,J_pref,best_share,HV,GD,n_front,latency_total
+method,Unnamed: 1_level_1,Unnamed: 2_level_1,Unnamed: 3_level_1,Unnamed: 4_level_1,Unnamed: 5_level_1,Unnamed: 6_level_1
+PlaceGNN,0.5253,0.9,0.7448,0.0016,14.0667,3.3057
+PlaceGNN-H,0.5216,0.78,0.7492,0.0156,14.1333,3.2945
+PlaceGNN (untrained),0.4935,0.5756,0.5532,0.0379,14.7667,3.5782
+Greedy-CC,0.4936,0.58,0.559,0.0093,14.5667,0.311
+WS-GA,0.4959,0.6022,0.6139,0.021,14.6667,50.2717
+D-POA,0.4937,0.5822,0.5686,0.0098,14.5333,52.4584

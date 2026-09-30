@@ -1,0 +1,18 @@
+Unnamed: 0_level_0,E1 static,E2 small (MILP set),E4 EUA real,E5 dynamic (pooled),E5 catastrophic
+ΔJ = PlaceGNN − method (* = Holm p<0.05 within experiment),Unnamed: 1_level_1,Unnamed: 2_level_1,Unnamed: 3_level_1,Unnamed: 4_level_1,Unnamed: 5_level_1
+PlaceGNN-H,+0.0041*,+0.0033,+0.0163*,+0.0011*,-0.0013
+PlaceGNN w/o repair,+0.1299*,—,—,—,—
+Supervised-GNN,-0.0029*,-0.0027,-0.0048*,—,—
+DRL-AM,+0.0004,-0.0008,+0.0168*,+0.0227*,+0.0514*
+Greedy-CC,-0.0013*,-0.0027,+0.0265*,+0.0072*,+0.0193
+WS-GA,-0.0032*,-0.0027,-0.0073*,+0.0040*,+0.0109
+D-POA,-0.0023*,-0.0027,-0.0038,+0.0066*,+0.0176
+PSO,-0.0029*,-0.0027,-0.0062*,—,—
+GWO,-0.0021*,-0.0027,-0.0048,—,—
+DE,-0.0022*,-0.0027,-0.0039,—,—
+TLBO,-0.0025*,-0.0027,-0.0040,—,—
+Random,+0.1686*,+0.0872*,+0.0541*,—,—
+PlaceGNN (N=1),+0.0048*,+0.0208*,—,—,—
+PlaceGNN (fixed w),—,—,—,+0.0083*,+0.0360*
+PlaceGNN (untrained),—,—,—,+0.0161*,+0.0139*
+Static,—,—,—,+0.0398*,+0.0857*

@@ -1,0 +1,9 @@
+Unnamed: 0_level_0,J,J,J,J,J,J,J,J,J,J,...,move_total,move_total,move_total,move_total,move_total,move_total,move_total,move_total,move_total,move_total
+method,D-POA,DRL-AM,Greedy-CC,PlaceGNN,PlaceGNN (fixed w),PlaceGNN (seed 1),PlaceGNN (seed 2),PlaceGNN (untrained),PlaceGNN-H,PlaceGNN-H (seed 1),...,PlaceGNN,PlaceGNN (fixed w),PlaceGNN (seed 1),PlaceGNN (seed 2),PlaceGNN (untrained),PlaceGNN-H,PlaceGNN-H (seed 1),PlaceGNN-H (seed 2),Static,WS-GA
+scenario,Unnamed: 1_level_2,Unnamed: 2_level_2,Unnamed: 3_level_2,Unnamed: 4_level_2,Unnamed: 5_level_2,Unnamed: 6_level_2,Unnamed: 7_level_2,Unnamed: 8_level_2,Unnamed: 9_level_2,Unnamed: 10_level_2,Unnamed: 11_level_2,Unnamed: 12_level_2,Unnamed: 13_level_2,Unnamed: 14_level_2,Unnamed: 15_level_2,Unnamed: 16_level_2,Unnamed: 17_level_2,Unnamed: 18_level_2,Unnamed: 19_level_2,Unnamed: 20_level_2,Unnamed: 21_level_2
+catastrophic,0.685,0.651,0.683,0.703,0.667,0.701,0.715,0.689,0.704,0.713,...,1.284,0.368,1.158,1.643,3.699,1.166,1.753,1.728,0.0,2.337
+expansion,0.784,0.775,0.784,0.784,0.782,0.784,0.784,0.777,0.784,0.786,...,0.16,0.13,0.147,0.215,0.545,0.165,0.205,0.23,0.0,0.31
+failure,0.75,0.731,0.751,0.762,0.755,0.764,0.764,0.729,0.758,0.762,...,1.004,0.659,1.033,1.218,5.985,1.049,1.195,1.137,0.0,1.785
+flash,0.78,0.769,0.778,0.782,0.778,0.782,0.783,0.77,0.781,0.784,...,0.268,0.215,0.257,0.335,0.839,0.252,0.309,0.306,0.0,0.437
+mobility,0.773,0.759,0.772,0.777,0.776,0.777,0.778,0.762,0.775,0.778,...,0.241,0.225,0.264,0.256,0.762,0.257,0.266,0.258,0.0,0.345
+traffic,0.779,0.77,0.779,0.783,0.783,0.783,0.784,0.767,0.783,0.783,...,0.226,0.199,0.215,0.272,0.695,0.239,0.237,0.211,0.0,0.321

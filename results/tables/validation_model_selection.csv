@@ -1,0 +1,14 @@
+Unnamed: 0_level_0,J,cov,conn,latency
+method,Unnamed: 1_level_1,Unnamed: 2_level_1,Unnamed: 3_level_1,Unnamed: 4_level_1
+abl_ref,0.7957,0.9925,0.9967,0.1539
+abl_gat,0.7932,0.9874,0.9957,0.183
+abl_with_delta,0.7953,0.9906,0.9977,0.1243
+abl_edge_surrogate,0.7885,0.9765,0.9947,0.0935
+abl_rho0.5,0.7948,0.9899,0.997,0.1595
+abl_rho2,0.7964,0.9927,0.9983,0.1308
+abl_no_stage2,0.7957,0.9925,0.9967,0.1593
+PlaceGNN (N=1),0.7921,0.9862,0.994,0.0456
+PlaceGNN,0.7957,0.9925,0.9967,0.1417
+PlaceGNN-H,0.7918,0.9832,0.9963,0.0891
+Supervised-GNN,0.7983,0.9971,0.9987,0.1245
+DRL-AM,0.7961,0.9902,1.0,0.3329
