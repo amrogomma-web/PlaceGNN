@@ -2,7 +2,6 @@
 
 Code, results and figures for the paper:
 
-> A. H. Abdelhaliem. *Amortised graph-neural optimisation for preference-steerable fog-node re-placement in dynamic IoT networks.* (under review)
 
 PlaceGNN is a heterogeneous graph neural network that emits a fog-node placement in one forward pass. It is trained **without labels** on an expected objective of coverage, algebraic connectivity (a shifted Fiedler value) and optimal-transport movement energy, is **conditioned on operator preferences**, and decodes with a derandomisation certificate, objective-aware connectivity repair and best-of-N sampling.
 
