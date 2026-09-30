@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "PlaceGNN: amortised graph-neural optimisation for preference-steerable fog-node re-placement"
+authors:
+  - family-names: Abdelhaliem
+    given-names: Amr H.
+    affiliation: "Department of Cyber Security, Irbid National University, Irbid, Jordan"
+    email: a.hasan@inu.edu.jo
+license: MIT
+repository-code: "https://github.com/amrogomma-web/PlaceGNN"
+preferred-citation:
+  type: article
+  title: "Amortised graph-neural optimisation for preference-steerable fog-node re-placement in dynamic IoT networks"
+  authors:
+    - family-names: Abdelhaliem
+      given-names: Amr H.
+  status: submitted
+  year: 2026
