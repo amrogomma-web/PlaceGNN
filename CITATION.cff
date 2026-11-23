@@ -6,6 +6,19 @@ authors:
     given-names: Amr H.
     affiliation: "Department of Cyber Security, Irbid National University, Irbid, Jordan"
     email: a.hasan@inu.edu.jo
+  - family-names: Altawaiha
+    given-names: Iyad
+    affiliation: "Faculty of Information Technology, Isra University, Amman, Jordan"
+  - family-names: Alshawabkeh
+    given-names: Hamza
+    affiliation: "Faculty of Science and Information Technology, Isra University, Amman, Jordan"
+  - family-names: Askar
+    given-names: Saddam
+    affiliation: "Faculty of Computer and Information Technology, Sana'a University, Sana'a, Yemen"
+    email: Saddam.kamel@su.edu.ye
+  - family-names: Fathi
+    given-names: Islam S.
+    affiliation: "Ajloun National University, Ajloun, Jordan"
 license: MIT
 repository-code: "https://github.com/amrogomma-web/PlaceGNN"
 preferred-citation:
@@ -14,5 +27,14 @@ preferred-citation:
   authors:
     - family-names: Abdelhaliem
       given-names: Amr H.
+    - family-names: Altawaiha
+      given-names: Iyad
+    - family-names: Alshawabkeh
+      given-names: Hamza
+    - family-names: Askar
+      given-names: Saddam
+    - family-names: Fathi
+      given-names: Islam S.
+  journal: "Applied Network Science"
   status: submitted
   year: 2026

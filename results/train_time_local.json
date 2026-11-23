@@ -1,0 +1,17 @@
+{
+ "placegnn_main": 1035.189725637436,
+ "placegnn_main_s1": 1068.9221653938293,
+ "placegnn_main_s2": 1033.102912902832,
+ "supervised_gnn": 177.97701382637024,
+ "placegnn_hybrid": 519.3003482818604,
+ "placegnn_hybrid_s1": 516.9467186927795,
+ "placegnn_hybrid_s2": 539.9440770149231,
+ "abl_gat": 336.0290846824646,
+ "abl_with_delta": 255.72009444236755,
+ "abl_edge_surrogate": 218.2774555683136,
+ "abl_rho0.5": 247.42941665649414,
+ "abl_rho2": 247.08354663848877,
+ "drl_am_v5": 6088.671076059341,
+ "abl_nearest_move": 183.1712327003479,
+ "drl_am_pref": 6107.278905391693
+}
